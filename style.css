@@ -1,0 +1,9 @@
+.lang {
+  text-align: right;     /* Aligns the whole menu to the right side */
+}
+
+.lang a {
+  font-weight: bold;     /* Replaces the <b> tag to make text bold */
+  margin-left: 20px;     /* Adds 20px of space to the left of each link */
+  text-decoration: none; /* Optional: Removes the default underline */
+}
