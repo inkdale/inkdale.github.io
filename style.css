@@ -11,3 +11,7 @@
 .lang a:hover {
   text-decoration: underline; /* Optional: Adds an underline on hover */
 }
+
+.nav a {
+  text-decoration: none; /* Optional: Removes the default underline */
+}
