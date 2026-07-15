@@ -7,3 +7,7 @@
   margin-left: 20px;     /* Adds 20px of space to the left of each link */
   text-decoration: none; /* Optional: Removes the default underline */
 }
+
+.lang a:hover {
+  text-decoration: underline; /* Optional: Adds an underline on hover */
+}
