@@ -15,3 +15,6 @@
 .nav a {
   text-decoration: none; /* Optional: Removes the default underline */
 }
+.nav a:hover {
+  text-decoration: underline; /* Optional: Adds an underline on hover */
+}
